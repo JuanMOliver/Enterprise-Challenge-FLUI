@@ -1,0 +1,12 @@
+{
+  "name": "flui-app-prototype",
+  "version": "1.0.0",
+  "description": "Protótipo mobile navegável do aplicativo Flui para motoristas de veículos elétricos.",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  },
+  "keywords": ["flui", "mobilidade-eletrica", "prototipo", "enterprise-challenge"],
+  "author": "Grupo Flui",
+  "license": "MIT"
+}
